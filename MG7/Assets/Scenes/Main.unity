@@ -3171,8 +3171,8 @@ MonoBehaviour:
   - {fileID: 1500197660}
   - {fileID: 816085033}
   - {fileID: 406130385}
-  _interactDist: 0
-  _playerTrans: {fileID: 2000452223716199333}
+  _interactDist: 10
+  _playerTrans: {fileID: 2617393310032840078}
 --- !u!4 &3778659256116226280
 Transform:
   m_ObjectHideFlags: 0
